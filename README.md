@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepika0Mehantigiri
 - 👀 I’m interested in doing something which i never did
-- 🌱 I’m currently learning Data 
+- 🌱 I’m currently learning Data Analysing
 - 💞️ I’m looking to collaborate on developing new skill
 - 📫 How to reach me deepikamehnati@gmail.com
 
